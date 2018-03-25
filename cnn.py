@@ -11,7 +11,7 @@ import tensorflow as tf
 # 数据文件夹
 data_dir = "data"
 # 训练还是测试
-train = False
+train = True
 # 模型文件路径
 model_path = "model/image_model"
 
